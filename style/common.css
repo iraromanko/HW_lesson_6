@@ -1,0 +1,43 @@
+.content-wrapper {
+    width: 1110px;
+    margin: 0 auto;
+}
+
+.clearfix {
+    overflow: auto; /*убирает побочный эффект float (высоту)*/
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+    margin: 150px 0 60px;
+}
+
+h2{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+
+h3{
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    font-style: normal;
+    margin-bottom: 20px;
+    color: #FFFFFF
+}
+
+span{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+
+}
